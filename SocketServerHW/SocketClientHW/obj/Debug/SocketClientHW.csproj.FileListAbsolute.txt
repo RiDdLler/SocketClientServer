@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\bin\Debug\SocketClientHW.exe.config
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\bin\Debug\SocketClientHW.exe
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\bin\Debug\SocketClientHW.pdb
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\App.g.cs
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW_MarkupCompile.cache
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.g.resources
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.Properties.Resources.resources
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.exe
+C:\Users\user\source\repos\SocketServerHW\SocketClientHW\obj\Debug\SocketClientHW.pdb

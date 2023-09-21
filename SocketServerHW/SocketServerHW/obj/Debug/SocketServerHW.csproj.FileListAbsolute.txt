@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\bin\Debug\SocketServerHW.exe.config
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\bin\Debug\SocketServerHW.exe
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\bin\Debug\SocketServerHW.pdb
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\obj\Debug\SocketServerHW.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\obj\Debug\SocketServerHW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\obj\Debug\SocketServerHW.exe
+C:\Users\user\source\repos\SocketServerHW\SocketServerHW\obj\Debug\SocketServerHW.pdb
